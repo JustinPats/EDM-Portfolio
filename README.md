@@ -2,7 +2,7 @@
 This is my repository for my Enterprise Data Management
 
 ## About Me
-I am Justin Patawaran, 1st-year BSIS student at City College of Angeles. I'm really into coding and always learning new programming languages to grow my skills. When I’m not coding, you’ll probably find me diving into anything car-related—whether it’s keeping up with the latest in automotive tech or just enjoying the world of cars in general.
+I am Justin Patawaran, 1st-year BSIS student at City College of Angeles. I'm really into coding and always learning new programming languages to grow my skills. When I’m not coding, you’ll probably find me going into anything car related topics I'm keeping up myself to the latest in automotive tech and just want to enjoy the world of cars.
 
 ## Education
 - College: City College of Angeles (BSIS)
