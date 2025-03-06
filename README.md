@@ -1,4 +1,4 @@
-# EDM - Projects - Naythan
+# EDM - Projects - Pats
 This is my repository for my Enterprise Data Management
 
 ## About Me
