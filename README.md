@@ -14,4 +14,4 @@ I am Justin Patawaran, 1st-year BSIS student at City College of Angeles. I'm rea
 - Elementary: Sapang Maisac Elementary School
 
 ## My Projects
-Midterms Task 1: [Data Cleaning and Preparation using EXCEL](Midterm%20Task%201/README.md)
+Midterms Task 1: [Data Cleaning and Preparation using EXCEL](https://github.com/JustinPats/EDM-Portfolio/tree/main/Midterm%20Task%201)
