@@ -22,4 +22,6 @@ It uses event_id and attendees_id as FOREIGN Keys.
 This links sponsors to events with events_id and and sponsor_name.
 
 
-## Here's the Screenshot for the EDR (See Screenshot) ##
+## Here's the Screenshot for the EDR ( see screenshot)
+
+<img src="" width="128"/>
