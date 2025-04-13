@@ -24,4 +24,4 @@ This links sponsors to events with events_id and and sponsor_name.
 
 ## Here's the Screenshot for the EDR ( see screenshot)
 
-<img src="" width="128"/>
+<img src="https://github.com/JustinPats/EDM-Portfolio/blob/main/Final%20Lab%20Task%201/ImagesFT1/ERD.jpg" width="128"/>
