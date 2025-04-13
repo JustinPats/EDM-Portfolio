@@ -15,3 +15,5 @@ I am Justin Patawaran, 1st-year BSIS student at City College of Angeles. I'm rea
 
 ## My Projects
 Midterms Task 1: [Data Cleaning and Preparation using EXCEL](https://github.com/JustinPats/EDM-Portfolio/tree/main/Midterm%20Task%201)
+
+Finals Task 1: [Events Management Database](.)
