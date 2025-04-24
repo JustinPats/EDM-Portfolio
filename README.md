@@ -21,3 +21,7 @@ Midterms Task 2: [ Data Cleaning and Transformation Using Power Query](https://g
 Midterm Task 3: [Creating PIVOT TABLE and DASHBOARD](https://github.com/JustinPats/EDM-Portfolio/tree/main/Midterm%20Task%203)
 
 Finals Task 1: [Events Management Database](https://github.com/JustinPats/EDM-Portfolio/blob/main/Final%20Lab%20Task%201/README.md)
+
+Finals Task 2: [Transforming ER Model to Relational Tables](https://github.com/JustinPats/EDM-Portfolio/tree/main/Final%20Lab%20Task%202)
+
+Finals Task 3: [Table Manipulation](https://github.com/JustinPats/EDM-Portfolio/tree/main/Final%20Lab%20Task%203)
