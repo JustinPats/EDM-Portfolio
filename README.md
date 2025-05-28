@@ -25,3 +25,9 @@ Finals Task 1: [Events Management Database](https://github.com/JustinPats/EDM-Po
 Finals Task 2: [Transforming ER Model to Relational Tables](https://github.com/JustinPats/EDM-Portfolio/tree/main/Final%20Lab%20Task%202)
 
 Finals Task 3: [Table Manipulation](https://github.com/JustinPats/EDM-Portfolio/tree/main/Final%20Lab%20Task%203)
+
+Finals Task 4: [Employee Databases](https://github.com/JustinPats/EDM-Portfolio/tree/main/Final%20Task%204)
+
+Finals Task 5: [Using SQL views and Stored Procedures and Stored Functions](http://github.com/JustinPats/EDM-Portfolio/tree/main/Final%20Lab%20Task%205)
+
+Finals Task 6: [ MongoDB Practice](https://github.com/JustinPats/EDM-Portfolio/blob/main/Final%20Lab%20Task%206/README.md)
