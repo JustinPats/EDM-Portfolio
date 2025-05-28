@@ -49,7 +49,7 @@ db.movies.insertMany([
   }
 ])
 ```
-![Alt Text]()
+![Alt Text](https://github.com/JustinPats/EDM-Portfolio/blob/main/Final%20Lab%20Task%206/imagestask6/insert.png)
 
 ##  Task 2: Querying Documents
 
@@ -57,37 +57,37 @@ db.movies.insertMany([
 ```sql
   db.movies.find()
 ```
-![Alt Text]()
+![Alt Text](https://github.com/JustinPats/EDM-Portfolio/blob/main/Final%20Lab%20Task%206/imagestask6/find.png)
 
 - Get all documents with writer set to "Quentin Tarantino"
 ```sql
 db.movies.find({ writer: "Quentin Tarantino" })
 ```
-![Alt Text]()
+![Alt Text](https://github.com/JustinPats/EDM-Portfolio/blob/main/Final%20Lab%20Task%206/imagestask6/find1.png)
 
 - Get all documents where actors include "Brad Pitt"
 ```sql
 db.movies.find({ actors: "Brad Pitt" })
 ```
-![Alt Text]()
+![Alt Text](https://github.com/JustinPats/EDM-Portfolio/blob/main/Final%20Lab%20Task%206/imagestask6/find2.png)
 
 - Get all documents with franchise set to "The Hobbit"
 ```sql
 db.movies.find({ franchise: "The Hobbit" })
 ```
-![Alt Text]()
+![Alt Text](https://github.com/JustinPats/EDM-Portfolio/blob/main/Final%20Lab%20Task%206/imagestask6/find3.png)
 
 - Get all movies released in the 1990s (1990 ≤ year ≤ 1999)
 ```sql
 db.movies.find({ year: { $gte: 1990, $lte: 1999 } })
 ```
-![Alt Text]()
+![Alt Text](https://github.com/JustinPats/EDM-Portfolio/blob/main/Final%20Lab%20Task%206/imagestask6/find4.png)
 
 - Get all movies released before 2000 or after 2010
 ```sql
 db.movies.find({ $or: [ { year: { $lt: 2000 } }, { year: { $gt: 2010 } } ] })
 ```
-![Alt Text]()
+![Alt Text](https://github.com/JustinPats/EDM-Portfolio/blob/main/Final%20Lab%20Task%206/imagestask6/find5.png)
 
 ##  Task 3: Updating Documents
 
@@ -96,49 +96,49 @@ Update documents in the movies collection as follows:
 - Add a synopsis to "The Hobbit: An Unexpected Journey":
 "A reluctant hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home - and the gold within it - from the dragon Smaug."
 
-![Alt Text]()
+![Alt Text](https://github.com/JustinPats/EDM-Portfolio/blob/main/Final%20Lab%20Task%206/imagestask6/update1.png)
 
 - Add a synopsis to "The Hobbit: The Desolation of Smaug":
 "The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim Erebor, their homeland, from Smaug. Bilbo Baggins is in possession of a mysterious and magical ring."
 
-![Alt Text]()
+![Alt Text](https://github.com/JustinPats/EDM-Portfolio/blob/main/Final%20Lab%20Task%206/imagestask6/update2.png)
 
 - Add the actor "Samuel L. Jackson" to "Pulp Fiction".
 
-![Alt Text]()
+![Alt Text](https://github.com/JustinPats/EDM-Portfolio/blob/main/Final%20Lab%20Task%206/imagestask6/update3.png)
 
 ##  Task 4: Text Search Queries
 Write queries to:
 
 - Find all movies whose synopsis contains the word "Bilbo".
   
-![Alt Text]()
+![Alt Text](https://github.com/JustinPats/EDM-Portfolio/blob/main/Final%20Lab%20Task%206/imagestask6/findx1.png)
 
 - Find all movies whose synopsis contains "Gandalf".
-![Alt Text]()
+![Alt Text](https://github.com/JustinPats/EDM-Portfolio/blob/main/Final%20Lab%20Task%206/imagestask6/findx2.png)
 
 - Find all movies whose synopsis contains "Bilbo" but not "Gandalf".
   
-![Alt Text]()
+![Alt Text](https://github.com/JustinPats/EDM-Portfolio/blob/main/Final%20Lab%20Task%206/imagestask6/findx3.png)
 
 - Find all movies whose synopsis contains "dwarves" or "hobbit".
   
-![Alt Text]()
+![Alt Text](https://github.com/JustinPats/EDM-Portfolio/blob/main/Final%20Lab%20Task%206/imagestask6/findx4.png)
 
 - Find all movies whose synopsis contains both "gold" and "dragon".
   
-![Alt Text]()
+![Alt Text](https://github.com/JustinPats/EDM-Portfolio/blob/main/Final%20Lab%20Task%206/imagestask6/findx5.png)
 
 ##  Task 5: Delete Documents
 Remove the following movies from the collection:
 
 - Pee Wee Herman's Big Adventure
 
-![Alt Text]()
+![Alt Text](https://github.com/JustinPats/EDM-Portfolio/blob/main/Final%20Lab%20Task%206/imagestask6/delete1.png)
 
 - Avatar
 
-![Alt Text]()
+![Alt Text](https://github.com/JustinPats/EDM-Portfolio/blob/main/Final%20Lab%20Task%206/imagestask6/del2.png)
 
 ##  Task 6 – MongoDB Files
 
