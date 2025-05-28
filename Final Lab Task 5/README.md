@@ -46,5 +46,5 @@ Step 5. CREATE A Function that will take 2 parameters(v_code and v_state) and di
 
 <img src="https://github.com/JustinPats/EDM-Portfolio/blob/main/Final%20Lab%20Task%205/imageslab5/Q5.png" alt="Alt Text" width="800" height="400"> 
 
-[MYSQL FILE LAB TASK 5 ]()
+[MYSQL FILE LAB TASK 5 ](https://github.com/JustinPats/EDM-Portfolio/blob/main/Final%20Lab%20Task%205/imageslab5/EDM%20Task%205.txt)
 
